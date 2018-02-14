@@ -15,6 +15,7 @@
     margin-top: 30px;
     margin-left: 10px;
     border-style: groove;
-    box-shadow: 2px -2px 2px 2px;
+    box-shadow:  inset 2px -2px 2px 2px,
+    inset -2px 2px 2px 2px ;
     border-radius: 20px;
 }
